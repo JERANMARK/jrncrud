@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">mad4</string>
+    <string name="restName">AKSHAYA REST</string>
+    <string name="cName">Customer Name</string>
+    <string name="cMember">Adults-0children-Room</string>
+    <string name="cRoomtype">Room Type</string>
+    <string name="cDuration">check in- check out</string>
+    <string name="cPrice">Price</string>
+    <string name="clearAll">clear_all</string>
+    <string name="Registers">Register</string>
+    <string name="List">Read List</string>
+    <string-array name="cRoomtype">
+        <item>Single Bed</item>
+        <item>Double Bed</item>
+        <item>Triple Bed</item>
+    </string-array>
+</resources>
